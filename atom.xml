@@ -4,10 +4,9 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Denis Barushev</title>
-    <link href="http://denis.github.com/atom.xml" rel="self" />
-    <link href="http://denis.github.com/" />
+    <link href="http://barushev.net/" />
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>http://denis.github.com/</id>
+    <id>http://barushev.net/</id>
     <author>
         <name>Denis Barushev</name>
         <email>barushev@gmail.com</email>
@@ -15,9 +14,9 @@ layout: nil
     {% for post in site.posts %}
         <entry>
             <title>{{ post.title }}</title>
-            <link href="http://denis.github.com{{ post.url }}"/>
+            <link href="http://barushev.net{{ post.url }}"/>
             <updated>{{ post.date | date_to_xmlschema }}</updated>
-            <id>http://denis.github.com{{ post.id }}</id>
+            <id>http://barushev.net{{ post.id }}</id>
             <content type="html">{{ post.content | xml_escape }}</content>
         </entry>
     {% endfor %}
