@@ -1,0 +1,6 @@
+---
+layout: post
+title: Hello
+---
+
+This blog is powered by [GitHub Pages](http://pages.github.com/).
