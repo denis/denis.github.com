@@ -1,0 +1,60 @@
+body {
+    background-color: #FFF;
+    color: #222;
+    font: 81.25% Verdana, Tahoma, Arial, sans-serif;
+    letter-spacing: 0.01em;
+    line-height: 1.538;
+}
+
+img {
+    border: 0;
+}
+
+/**
+ * Code
+ */
+pre {
+    background-color: #F9F9F9;
+    color: #333;
+    border: 1px solid #EEE;
+    line-height: 1.1;
+    overflow: auto;
+    padding: 6px 4px 4px 6px;
+}
+
+code {
+    color: #007A00;
+    font-family: Consolas, Lucida Console, Bitstream Vera Sans Mono, Courier New, monospace;
+    font-size: 13px;
+}
+
+pre code {
+    color: #333;
+}
+
+/**
+ * Headings
+ */
+h1, h2, h3 {
+    color: #000;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    letter-spacing: -0.05em;
+}
+
+h1 {
+    font-size: 3em;
+    line-height: 1.05;
+    margin: 0.256em 0;
+}
+
+h2 {
+    font-size: 2em;
+    line-height: 1.15;
+    margin: 0.577em 0;
+}
+
+#content {
+    margin: 0 auto;
+    width: 50em;
+}
