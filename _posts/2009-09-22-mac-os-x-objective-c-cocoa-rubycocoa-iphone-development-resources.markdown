@@ -29,6 +29,9 @@ Source: [http://github.com/Caged/httpriot](http://github.com/Caged/httpriot)
 * [ObjectiveResource](http://iphoneonrails.com/) is an Objective-C port of Ruby on Rails' ActiveResource.  
 Source: [http://github.com/yfactorial/objectiveresource](http://github.com/yfactorial/objectiveresource)
 
+* [BWToolkit](http://brandonwalkin.com/bwtoolkit/) is an Interface Builder plugin that contains commonly used UI elements and other objects designed to simplify Mac development.  
+Source: [http://www.bitbucket.org/bwalkin/bwtoolkit/](http://www.bitbucket.org/bwalkin/bwtoolkit/)
+
 ## Open Source Examples
 
 * [Canary](http://www.canaryapp.com/) is a Twitter client that is beautifully designed, fun to use and has everything you'll ever need.  
