@@ -18,6 +18,8 @@ Source: [http://github.com/drnic/choctop](http://github.com/drnic/choctop)
 * [Cocoa Browser Air](http://numata.designed.jp/en/programming/cocoa-browser-air.html) allows you to browse all Cocoa related APIs of Mac OS X frameworks, such as Core Animation, Core Data, WebKit and so on. You can browse the brand new APIs for iPhone 2.0 to 3.0 as well. This is the best complement tool for the Cocoa Programming on every platforms provided by Apple Inc.  
 Source: [http://github.com/sazameki/cocoa-browser-air](http://github.com/sazameki/cocoa-browser-air)
 
+* [Clang Static Analyzer](http://clang-analyzer.llvm.org/) consists of both a source code analysis framework and a standalone tool that finds bugs in C and Objective-C programs.
+
 ## Frameworks and Libraries
 
 * [Sparkle](http://sparkle.andymatuschak.org/) is an easy-to-use software update framework for Cocoa developers.  
