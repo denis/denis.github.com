@@ -34,6 +34,9 @@ Source: [http://github.com/yfactorial/objectiveresource](http://github.com/yfact
 * [BWToolkit](http://brandonwalkin.com/bwtoolkit/) is an Interface Builder plugin that contains commonly used UI elements and other objects designed to simplify Mac development.  
 Source: [http://www.bitbucket.org/bwalkin/bwtoolkit/](http://www.bitbucket.org/bwalkin/bwtoolkit/)
 
+* [ParseKit](http://parsekit.com/) is a Mac OS X Framework for building parsers (parsing, tokenizing and language processing).
+Source: [http://github.com/itod/parsekit](http://github.com/itod/parsekit)
+
 ## Open Source Examples
 
 * [Canary](http://www.canaryapp.com/) is a Twitter client that is beautifully designed, fun to use and has everything you'll ever need.  
