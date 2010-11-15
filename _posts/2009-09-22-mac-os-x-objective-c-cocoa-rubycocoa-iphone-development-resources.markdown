@@ -37,6 +37,9 @@ Source: [http://www.bitbucket.org/bwalkin/bwtoolkit/](http://www.bitbucket.org/b
 * [ParseKit](http://parsekit.com/) is a Mac OS X Framework for building parsers (parsing, tokenizing and language processing).
 Source: [http://github.com/itod/parsekit](http://github.com/itod/parsekit)
 
+* [RestKit](http://twotoasters.com/index.php/2010/04/06/introducing-restkit/) is a library for interacting with Restful web services in Objective C. It provides a set of primitives for interacting with web services wrapping GET, POST, PUT and DELETE HTTP verbs behind a clean, simple interface. RestKit also provides a system for modeling remote resources by mapping them from JSON payloads back into domain objects.
+Source: [https://github.com/twotoasters/RestKit](https://github.com/twotoasters/RestKit)
+
 ## Open Source Examples
 
 * [Canary](http://www.canaryapp.com/) is a Twitter client that is beautifully designed, fun to use and has everything you'll ever need.  
