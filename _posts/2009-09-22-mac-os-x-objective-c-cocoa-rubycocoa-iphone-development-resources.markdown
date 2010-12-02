@@ -40,6 +40,9 @@ Source: [http://github.com/itod/parsekit](http://github.com/itod/parsekit)
 * [RestKit](http://twotoasters.com/index.php/2010/04/06/introducing-restkit/) is a library for interacting with Restful web services in Objective C. It provides a set of primitives for interacting with web services wrapping GET, POST, PUT and DELETE HTTP verbs behind a clean, simple interface. RestKit also provides a system for modeling remote resources by mapping them from JSON payloads back into domain objects.
 Source: [https://github.com/twotoasters/RestKit](https://github.com/twotoasters/RestKit)
 
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) is an iPhone drop-in class that displays a translucent HUD with a progress indicator and some optional labels while work is being done in a background thread. The HUD is meant as a replacement for the undocumented, private UIKit UIProgressHUD with some additional features.
+Source: [https://github.com/jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+
 ## Open Source Examples
 
 * [Canary](http://www.canaryapp.com/) is a Twitter client that is beautifully designed, fun to use and has everything you'll ever need.  
