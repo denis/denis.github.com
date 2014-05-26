@@ -1,0 +1,14 @@
+body {
+  color: black;
+  font: 13px/1.5 Helvetica, Arial, sans-serif;
+}
+
+small {
+  color: darkgray;
+  font-size: 90%;
+}
+
+#content {
+  width: 800px;
+  margin: 0 auto;
+}

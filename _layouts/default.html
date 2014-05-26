@@ -4,7 +4,7 @@
     <head>
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <title>Denis Barushev{% if page.title %} - {{ page.title }}{% endif %}</title>
-        <link href="/stylesheets/default.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="/stylesheets/{% if page.css %}{{ page.css }}{% else %}default{% endif %}.css" media="screen" rel="stylesheet" type="text/css">
         <link rel="alternate" type="application/atom+xml" title="Denis Barushev" href="http://feeds2.feedburner.com/Barushev">
         <link rel="icon" href="http://www.gravatar.com/avatar/60b81725f10c422549337074d2f4a599?s=16">
         <meta name="google-site-verification" content="wxhv3Lk644x0ztZ6MkfRi8fsBOIkRBr3MkkOhcXkCso" />
