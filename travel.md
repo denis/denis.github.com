@@ -38,7 +38,7 @@ css: travel
 
 ## 2011
 
-- Ялта <small>30 декабря 2010 – 3 января</small>
+- [Ялта](https://www.flickr.com/photos/barushev/sets/72157644881359976/) <small>30 декабря 2010 – 3 января</small>
 - [Карпаты](https://www.flickr.com/photos/barushev/sets/72157639462161305/) <small>6–14 января</small>
 - [Турция на велосипеде](https://www.flickr.com/photos/barushev/sets/72157626581836837/) <small>16 апреля – 3 мая</small>
 - [Крым на велосипеде](https://www.flickr.com/photos/barushev/sets/72157644404999029/) <small>7–10 мая</small>
