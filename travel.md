@@ -62,3 +62,4 @@ css: travel
 - Northstar California <small>22–23 февраля</small>
 - Kirkwood Mountain Resort <small>8 марта</small>
 - Mount Shasta <small>17–18 мая</small>
+- [Lake Tahoe](https://www.flickr.com/photos/barushev/sets/72157645000068685) <small>31 мая – 1 июня</small>
