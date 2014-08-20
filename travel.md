@@ -64,3 +64,4 @@ css: travel
 - Mount Shasta <small>17–18 мая</small>
 - [Lake Tahoe](https://www.flickr.com/photos/barushev/sets/72157645000068685) <small>31 мая – 1 июня</small>
 - Lake Tahoe <small>4–6 июля</small>
+- Oregon, Washington <small>9–17 августа</small>
