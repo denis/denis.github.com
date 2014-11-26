@@ -66,3 +66,5 @@ css: travel
 - Lake Tahoe <small>4–6 июля</small>
 - Oregon, Washington <small>9–17 августа</small>
 - Lake Tahoe <small>5–7 сентября</small>
+- Chicago <small>11–14 октября</small>
+- San Diego <small>15–19 ноября</small>
