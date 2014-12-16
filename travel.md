@@ -68,3 +68,4 @@ css: travel
 - Lake Tahoe <small>5–7 сентября</small>
 - Chicago <small>11–14 октября</small>
 - San Diego <small>15–19 ноября</small>
+- Northstar California <small>13–14 декабря</small>
