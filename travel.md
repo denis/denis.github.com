@@ -69,3 +69,9 @@ css: travel
 - Chicago <small>11–14 октября</small>
 - San Diego <small>15–19 ноября</small>
 - Northstar California <small>13–14 декабря</small>
+- Los Angeles <small>28-30 декабря</small>
+
+## 2015
+
+- San Diego <small>30 декабря 2014 – 3 января</small>
+- Lake Tahoe <small>31 января – 1 февраля</small>
