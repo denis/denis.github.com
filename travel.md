@@ -61,7 +61,7 @@ css: travel
 - Yosemite National Park, Las Vegas, Grand Canyon National Park, Venice <small>25–31 января</small>
 - Northstar California <small>22–23 февраля</small>
 - Kirkwood Mountain Resort <small>8 марта</small>
-- Mount Shasta <small>17–18 мая</small>
+- Mount Shasta via Avalanche Gulch <small>17–18 мая</small>
 - [Lake Tahoe](https://www.flickr.com/photos/barushev/sets/72157645000068685) <small>31 мая – 1 июня</small>
 - Lake Tahoe <small>4–6 июля</small>
 - Oregon, Washington <small>9–17 августа</small>
@@ -76,4 +76,5 @@ css: travel
 - San Diego <small>30 декабря 2014 – 3 января</small>
 - Lake Tahoe <small>31 января – 1 февраля</small>
 - Squaw Valley <small>7–8 марта</small>
+- Mount Shasta via Casaval Ridge <small>28-30 марта</small>
 - San Diego <small>23–25 мая</small>
