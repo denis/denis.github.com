@@ -76,3 +76,4 @@ css: travel
 - San Diego <small>30 декабря 2014 – 3 января</small>
 - Lake Tahoe <small>31 января – 1 февраля</small>
 - Squaw Valley <small>7–8 марта</small>
+- San Diego <small>23–25 мая</small>
