@@ -78,3 +78,4 @@ css: travel
 - Squaw Valley <small>7–8 марта</small>
 - Mount Shasta via Casaval Ridge <small>28-30 марта</small>
 - San Diego <small>23–25 мая</small>
+- Mount Shasta via Hotlum-Bolam Ridge <small>29-30 мая</small>
