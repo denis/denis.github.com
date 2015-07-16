@@ -79,3 +79,4 @@ css: travel
 - Mount Shasta via Casaval Ridge <small>28-30 марта</small>
 - San Diego <small>23–25 мая</small>
 - Mount Shasta via Hotlum-Bolam Ridge <small>29-30 мая</small>
+- Lake Tahoe <small>13–14 июня</small>
