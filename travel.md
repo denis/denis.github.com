@@ -80,3 +80,6 @@ css: travel
 - San Diego <small>23–25 мая</small>
 - Mount Shasta via Hotlum-Bolam Ridge <small>29-30 мая</small>
 - Lake Tahoe <small>13–14 июня</small>
+- Point Reyes National Seashore <small>18–19 июля</small>
+- Lake Tahoe <small>1–2 августа</small>
+- Downieville <small>8–9 августа</small>
