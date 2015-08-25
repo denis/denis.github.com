@@ -83,3 +83,4 @@ css: travel
 - Point Reyes National Seashore <small>18–19 июля</small>
 - Lake Tahoe <small>1–2 августа</small>
 - Downieville <small>8–9 августа</small>
+- Colorado <small>15–22 августа</small>
