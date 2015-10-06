@@ -86,3 +86,4 @@ css: travel
 - Colorado <small>15–22 августа</small>
 - Hawaii <small>10–21 сентября</small>
 - Northstar California <small>27 сентября</small>
+- Lake Tahoe <small>3–4 октября</small>
