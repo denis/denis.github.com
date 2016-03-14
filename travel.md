@@ -16,19 +16,19 @@ css: travel
 ## 2015
 
 - San Diego <small>30 декабря 2014 – 3 января</small>
-- Lake Tahoe <small>31 января – 1 февраля</small>
+- Lake Tahoe (climbing at Donner Pass Road and Eagle Creek Canyon) <small>31 января – 1 февраля</small>
 - Squaw Valley <small>7–8 марта</small>
 - Mount Shasta via Casaval Ridge <small>28-30 марта</small>
 - San Diego <small>23–25 мая</small>
 - Mount Shasta via Hotlum-Bolam Ridge <small>29-30 мая</small>
-- Lake Tahoe <small>13–14 июня</small>
+- Lake Tahoe (Fallen Leaf Campground, climbing at Eagle Creek Canyon) <small>13–14 июня</small>
 - Point Reyes National Seashore <small>18–19 июля</small>
-- Lake Tahoe <small>1–2 августа</small>
+- Lake Tahoe (Nevada Beach Campground, North Yuba River) <small>1–2 августа</small>
 - Downieville <small>8–9 августа</small>
 - Colorado <small>15–22 августа</small>
-- Hawaii <small>10–21 сентября</small>
-- Northstar California <small>27 сентября</small>
-- Lake Tahoe <small>3–4 октября</small>
+- Hawaii (Maui, Big Island) <small>10–21 сентября</small>
+- Northstar California (mountain biking) <small>27 сентября</small>
+- Lake Tahoe (climbing at Big Chief) <small>3–4 октября</small>
 
 ## 2014
 
