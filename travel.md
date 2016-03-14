@@ -6,6 +6,13 @@ css: travel
 
 # {{ page.title }}
 
+## 2016
+
+- Squaw Valley <small>23–24 января</small>
+- Big Sur <small>20–21 февраля</small>
+- Los Angeles <small>22–23 февраля</small>
+- Squaw Valley <small>5–6 марта</small>
+
 ## 2015
 
 - San Diego <small>30 декабря 2014 – 3 января</small>
