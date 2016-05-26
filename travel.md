@@ -12,6 +12,7 @@ css: travel
 - Big Sur <small>20–21 февраля</small>
 - Los Angeles <small>22–23 февраля</small>
 - Squaw Valley <small>5–6 марта</small>
+- New York City, Philadelphia, Boston, Burlington <small>29 апреля – 10 мая</small>
 
 ## 2015
 
