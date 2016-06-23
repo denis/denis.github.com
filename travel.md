@@ -13,6 +13,8 @@ css: travel
 - Los Angeles <small>22–23 февраля</small>
 - Squaw Valley <small>5–6 марта</small>
 - New York City, Philadelphia, Boston, Burlington <small>29 апреля – 10 мая</small>
+- Mount Shasta via Casaval Ridge <small>11-12 июня</small>
+- Lake Tahoe (Nevada Beach Campground, climbing at Eagle Creek Canyon) <small>18–19 июня</small>
 
 ## 2015
 
