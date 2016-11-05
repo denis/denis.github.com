@@ -15,6 +15,9 @@ css: travel
 - New York City, Philadelphia, Boston, Burlington <small>29 апреля – 10 мая</small>
 - Mount Shasta via Casaval Ridge <small>11-12 июня</small>
 - Lake Tahoe (Nevada Beach Campground, climbing at Eagle Creek Canyon) <small>18–19 июня</small>
+- Northstar California (mountain biking) <small>6 августа</small>
+- Downieville <small>13–14 августа</small>
+- Hawaii (Oahu) <small>24 сентября – 2 октября</small>
 
 ## 2015
 
