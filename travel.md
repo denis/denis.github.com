@@ -6,6 +6,10 @@ css: travel
 
 # {{ page.title }}
 
+## 2017
+
+- Lake Tahoe (skiing at Kirkwood Mountain Resort) <small>31 декабря 2016 – 2 января</small>
+
 ## 2016
 
 - Squaw Valley <small>23–24 января</small>
