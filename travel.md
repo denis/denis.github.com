@@ -8,7 +8,9 @@ css: travel
 
 ## 2017
 
-- Lake Tahoe (skiing at Kirkwood Mountain Resort) <small>31 декабря 2016 – 2 января</small>
+- Lake Tahoe (skiing in Kirkwood Mountain Resort) <small>December 31, 2016 – January 2</small>
+- Utah (Salt Lake City, ice climbing in Provo Canyon, backcountry skiing in Pole Canyon, skiing in Snowbird) <small>January 18–23</small>
+- Los Angeles, San Diego <small>April 23–29</small>
 
 ## 2016
 
