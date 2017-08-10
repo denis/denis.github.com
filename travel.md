@@ -11,6 +11,7 @@ css: travel
 - Lake Tahoe (skiing in Kirkwood Mountain Resort) <small>December 31, 2016 – January 2</small>
 - Utah (Salt Lake City, ice climbing in Provo Canyon, backcountry skiing in Pole Canyon, skiing in Snowbird) <small>January 18–23</small>
 - Los Angeles, San Diego <small>April 23–29</small>
+- Mount Rainier via Kautz Glacier <small>August 4–7</small>
 
 ## 2016
 
