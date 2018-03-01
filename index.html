@@ -3,23 +3,26 @@ layout: default
 ---
 
 <div class="vcard">
-    <img src="http://www.gravatar.com/avatar/60b81725f10c422549337074d2f4a599?s=100" width="100" height="100" alt="Denis Barushev" class="photo" />
+  <img src="https://s.gravatar.com/avatar/60b81725f10c422549337074d2f4a599?s=400" width="200" height="200" alt="Denis Barushev" class="photo" />
+  
+  <h1 class="fn">Denis Barushev</h1>
 
-    <h1 class="fn">Denis Barushev</h1>
+  <p>
+    Software engineer at <a href="https://squareup.com" class="org">Square</a>,
+    lives in beautiful <span class="locality">San Francisco</span> 🌁,
+    <a href="https://www.strava.com/athletes/6451559">marathon runner</a>,
+    rock climber 🧗🏻‍♂️,
+    alpinist 🏔,
+    mount biker 🚵🏻‍♂️,
+    homebrewer and <a href="https://www.instagram.com/sf_beer/">beer geek</a> 🍻,
+    coffee addict ☕️,
+    <a href="/travel">occasional traveler</a>.
+  </p>
 
-    <ul>
-        <li><a href="mailto:barushev@gmail.com" class="email">barushev@gmail.com</a></li>
-        <li><a href="http://github.com/denis">github.com/denis</a></li>
-        <li><a href="http://twitter.com/barushev">@barushev</a></li>
-        <li><a href="http://denis.tumblr.com/">denis.tumblr.com</a></li>
-        <li><a href="http://flickr.com/photos/barushev/">flickr.com/photos/barushev/</a></li>
-    </ul>
+  <ul class="contacts">
+    <li><a href="mailto:barushev@gmail.com" class="email">barushev@gmail.com</a></li>
+    <li><a href="https://www.linkedin.com/in/barushev/" class="linkedin">Denis Barushev</a></li>
+    <li><a href="http://twitter.com/barushev" class="twitter">@barushev</a></li>
+    <li><a href="http://github.com/denis" class="github">github.com/denis</a></li>
+  </ul>
 </div>
-
-<h2>Blog Posts <a href="http://feeds2.feedburner.com/Barushev"><img src="/images/feed.png" alt="Feed" /></a></h2>
-
-<ul class="posts">
-    {% for post in site.posts %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>

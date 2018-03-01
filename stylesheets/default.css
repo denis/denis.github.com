@@ -1,9 +1,8 @@
 body {
-    background-color: #FFF;
-    color: #222;
-    font: 81.25% Verdana, Tahoma, Arial, sans-serif;
-    letter-spacing: 0.01em;
-    line-height: 1.538;
+    background-color: #eee;
+    color: #555;
+    font-family: Avenir, Verdana, Tahoma, Arial, sans-serif;
+    font-weight: 500;
 }
 
 img {
@@ -32,12 +31,17 @@ pre code {
     color: #333;
 }
 
+a {
+    color: #34f;
+    text-decoration: none;
+    border-bottom: 1px solid #89f;
+}
+
 /**
  * Headings
  */
 h1, h2, h3 {
-    color: #000;
-    font-family: Georgia, serif;
+    color: #222;
     font-weight: normal;
     letter-spacing: -0.05em;
 }
@@ -57,4 +61,55 @@ h2 {
 #content {
     margin: 0 auto;
     width: 50em;
+}
+
+.vcard {
+    margin-top: 175px;
+    position: relative;
+    padding-left: 220px;
+}
+
+.vcard .photo {
+    position: absolute;
+    left: 0;
+}
+
+.contacts {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.vcard .contacts li {
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    margin-right: 10px;
+    list-style-type: none;
+}
+
+.vcard .contacts li a {
+    display: block;
+    height: 100%;
+    font-size: 0;
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+
+.vcard .email {
+    background-image: url(../images/gmail.svg);
+}
+
+.vcard .linkedin {
+    background-image: url(../images/linkedin.svg);
+}
+
+.vcard .github {
+    background-image: url(../images/github.svg);
+}
+
+.vcard .twitter {
+    background-image: url(../images/twitter.svg);
 }
