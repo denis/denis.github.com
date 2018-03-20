@@ -9,12 +9,12 @@ css: travel
 ## 2018
 
 - Competing Against Luck
-- Shoe Dog
+- ⭐️ Shoe Dog
 - A Random Walk down Wall Street
 - Outliers
 - Zero to One
 - Predictably Irrational
-- Domain Modeling Made Functional
+- ⭐️ Domain Modeling Made Functional
 - The Simple Path to Wealth
 - A Fine Mess
-- Cork Dork
+- ⭐️ Cork Dork
