@@ -6,6 +6,11 @@ css: travel
 
 # {{ page.title }}
 
+## 2018
+
+- Squaw Valley <small>March 5</small>
+- Ojai, Ventura, Los Angeles, San Luis Obispo (running Mountains 2 Beach Marathon) <small>May 26–28</small>
+
 ## 2017
 
 - Lake Tahoe (skiing in Kirkwood Mountain Resort) <small>December 31, 2016 – January 2</small>
