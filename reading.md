@@ -21,3 +21,4 @@ css: travel
 - The Lean Startup
 - Hatching Twitter
 - Flash Boys
+- Thinking in Bets
