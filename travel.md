@@ -18,6 +18,7 @@ css: travel
 - Los Angeles, San Diego <small>April 23–29</small>
 - Mount Rainier via Kautz Glacier <small>August 4–7</small>
 - Northstar California (mountain biking) <small>August 26</small>
+- Lake Tahoe (Nevada Beach Campground, running  Tahoe Rim Trail) <small>September 9–10</small>
 - Oregon (Bend, Portland) <small>October 7–14</small>
 - Sacramento (running California International Marathon) <small>December 2–3</small>
 
