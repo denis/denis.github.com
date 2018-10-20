@@ -10,6 +10,7 @@ css: travel
 
 - Squaw Valley <small>March 5</small>
 - Ojai, Ventura, Los Angeles, San Luis Obispo (running Mountains 2 Beach Marathon) <small>May 26–28</small>
+- Europe (Barcelona, Brussels, Bruges, Venice, Dolomites, Lake Como, Chamonix, Cinque Terre, Florence, Rome) <small>Aug 20 – Sep 17</small>
 
 ## 2017
 
