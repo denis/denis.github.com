@@ -10,6 +10,7 @@ css: travel
 
 - Squaw Valley <small>March 5</small>
 - Ojai, Ventura, Los Angeles, San Luis Obispo (running Mountains 2 Beach Marathon) <small>May 26–28</small>
+- Lake Tahoe (Nevada Beach Campground) <small>August 3–5</small>
 - Europe (Barcelona, Brussels, Bruges, Venice, Dolomites, Lake Como, Chamonix, Cinque Terre, Florence, Rome) <small>August 20 – September 17</small>
 - New York City (running New York City Marathon) <small>November 2–5</small>
 - South Lake Tahoe (escaping the smoke) <small>November 17–20</small>
