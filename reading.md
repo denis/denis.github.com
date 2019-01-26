@@ -6,6 +6,10 @@ css: travel
 
 # {{ page.title }}
 
+## 2019
+
+- Endure
+
 ## 2018
 
 - Competing Against Luck
