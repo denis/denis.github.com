@@ -6,6 +6,10 @@ css: travel
 
 # {{ page.title }}
 
+## 2019
+
+- Ouray, Colorado (ice climbing in Ouray Ice Park) <small>February 3–9</small>
+
 ## 2018
 
 - Squaw Valley <small>March 5</small>
