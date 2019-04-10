@@ -6,6 +6,11 @@ css: travel
 
 # {{ page.title }}
 
+## 2019
+
+- 1:14:36 (1 / 73) Zoom Angel Island 10 mi
+- 38:10 (9 / 633) Lam Research Heart & Soles Run 10K
+
 ## 2018
 
 - 3:11:47 (2286 / 52697) New York City Marathon
