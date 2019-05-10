@@ -9,6 +9,7 @@ css: travel
 ## 2019
 
 - Ouray, Colorado (ice climbing in Ouray Ice Park) <small>February 3–9</small>
+- Eureka (running Avenue of the Giants Marathon) <small>May 4–5</small>
 
 ## 2018
 
