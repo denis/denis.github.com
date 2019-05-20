@@ -8,6 +8,7 @@ css: travel
 
 ## 2019
 
+- 48:25 (281 / ?) Bay to Breakers
 - **2:59:25 (17 / 346) Avenue of the Giants Marathon**
 - 40:14 (1 / 6) Earth Day Fun Run 10K
 - 1:14:36 (1 / 73) Zoom Angel Island 10 mi
