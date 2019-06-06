@@ -10,6 +10,7 @@ css: travel
 
 - Ouray, Colorado (ice climbing in Ouray Ice Park) <small>February 3–9</small>
 - Eureka (running Avenue of the Giants Marathon) <small>May 4–5</small>
+- Barcelona <small>May 25 – June 1</small>
 
 ## 2018
 
