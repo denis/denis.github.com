@@ -13,6 +13,7 @@ css: travel
 - Run to Overcome
 - The Incomplete Book of Running
 - Good to Go
+- The Art of Running Faster
 
 ## 2018
 
