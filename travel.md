@@ -13,7 +13,7 @@ css: travel
 - Barcelona <small>May 25 – June 1</small>
 - Lake Tahoe (Nevada Beach Campground, running Tahoe Rim Trail) <small>August 31 – September 2</small>
 - Goodwin Dam Recreation Area (fly fishing The Lower Stanislaus River) <small>September 14</small>
-- Hamburg, Berlin (running Berlin Marathon) <small>September 20-30</small>
+- Hamburg, Berlin (running Berlin Marathon) <small>September 20–30</small>
 
 ## 2018
 
