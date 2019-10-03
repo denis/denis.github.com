@@ -8,6 +8,8 @@ css: travel
 
 ## 2019
 
+- 3:10:41 (3728 / 44065) Berlin Marathon
+- 43:26 (4 / 72) Zoom Dynamite Trail Run 10K
 - 40:07 (2 / 49) Mount Madonna Trail Run 8K
 - 48:25 (280 / 16648) Bay to Breakers 12K
 - **2:59:25 (17 / 346) Avenue of the Giants Marathon**

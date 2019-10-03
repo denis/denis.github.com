@@ -11,6 +11,9 @@ css: travel
 - Ouray, Colorado (ice climbing in Ouray Ice Park) <small>February 3–9</small>
 - Eureka (running Avenue of the Giants Marathon) <small>May 4–5</small>
 - Barcelona <small>May 25 – June 1</small>
+- Lake Tahoe (Nevada Beach Campground, running Tahoe Rim Trail) <small>August 31 – September 2</small>
+- Goodwin Dam Recreation Area (fly fishing The Lower Stanislaus River) <small>September 14</small>
+- Hamburg, Berlin (running Berlin Marathon) <small>September 20-30</small>
 
 ## 2018
 
@@ -28,7 +31,7 @@ css: travel
 - Los Angeles, San Diego <small>April 23–29</small>
 - Mount Rainier via Kautz Glacier <small>August 4–7</small>
 - Northstar California (mountain biking) <small>August 26</small>
-- Lake Tahoe (Nevada Beach Campground, running  Tahoe Rim Trail) <small>September 9–10</small>
+- Lake Tahoe (Nevada Beach Campground, running  Flume Trail) <small>September 9–10</small>
 - Oregon (Bend, Portland) <small>October 7–14</small>
 - Sacramento (running California International Marathon) <small>December 2–3</small>
 
