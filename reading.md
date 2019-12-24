@@ -14,6 +14,7 @@ css: travel
 - The Incomplete Book of Running
 - Good to Go
 - The Art of Running Faster
+- The Elements of Effort
 
 ## 2018
 

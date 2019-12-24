@@ -8,7 +8,9 @@ css: travel
 
 ## 2019
 
-- 3:10:41 (3728 / 44065) Berlin Marathon
+- 20:49 (6 / 227) Zoom Turkey Trot 5K
+- 3:08:10 (2954 / 45868) Chicago Marathon
+- 3:10:41 (3724 / 43987) Berlin Marathon
 - 43:26 (4 / 72) Zoom Dynamite Trail Run 10K
 - 40:07 (2 / 49) Mount Madonna Trail Run 8K
 - 48:25 (280 / 16648) Bay to Breakers 12K

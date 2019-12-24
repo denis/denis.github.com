@@ -14,6 +14,9 @@ css: travel
 - Lake Tahoe (Nevada Beach Campground, running Tahoe Rim Trail) <small>August 31 – September 2</small>
 - Goodwin Dam Recreation Area (fly fishing The Lower Stanislaus River) <small>September 14</small>
 - Hamburg, Berlin (running Berlin Marathon) <small>September 20–30</small>
+- Chicago (running Chicago Marathon) <small>October 11–14</small>
+- New York City <small>November 18–22</small>
+- Carmel Valley Village <small>November 23–24</small>
 
 ## 2018
 
