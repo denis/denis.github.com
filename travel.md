@@ -1,6 +1,5 @@
 ---
 title: Travel
-layout: default
 css: travel
 ---
 

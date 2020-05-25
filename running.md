@@ -1,6 +1,5 @@
 ---
 title: Running
-layout: default
 css: travel
 ---
 
