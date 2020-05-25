@@ -5,6 +5,11 @@ css: travel
 
 # {{ page.title }}
 
+## 2020
+
+- Ouray, Colorado (ice climbing in Ouray Ice Park) <small>February 22–26</small>
+- Everett (touring Boeing Factory) <small>February 29</small>
+
 ## 2019
 
 - Ouray, Colorado (ice climbing in Ouray Ice Park) <small>February 3–9</small>
