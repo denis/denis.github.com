@@ -10,12 +10,13 @@ css: travel
 - Tokyo Marathon 2:56:47
 - Boston Marathon [3:04:22](https://results.baa.org/2023/?content=detail&fpid=search&pid=search&idp=9TGHS6FF17C946&lang=EN_CAP&event=R&event_main_group=runner&pidp=start&search%5Bstart_no%5D=7352&search_event=R)
 - The Canyons 100K [16:43:04](https://utmb.world/utmb-index/races/3753.thecanyonsendurancerunsbyutmb-100km.2023?page=10)
+- Bay to Breakers 12K 49:02
 
 ## 2022
 
 - Transalpine Run
 - Tahoe Rim Trail Endurance Runs 50M
-- Bay to Breakers 12K
+- Bay to Breakers 12K 47:39
 - The Canyons 50K
 - Napa Valley Marathon
 - Kaiser Permanente San Francisco 10K
