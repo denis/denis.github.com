@@ -12,6 +12,7 @@ css: travel
 - The Canyons 100K [16:43:04][2023-the-canyons-100k]
 - Bay to Breakers 12K 49:02
 - The Broken Arrow Skyrace 46K [7:22:13][2023-the-broken-arrow-skyrace-46k]
+- Tahoe Rim Trail Endurance Runs 56M [13:23:07][2023-trter-56m]
 
 ## 2022
 
@@ -56,3 +57,4 @@ css: travel
 [2022-napa-valley-marathon]: https://results.svetiming.com/napa-valley-marathon/events/2022/kaiser-permanente-napa-valley-marathon/1502/entrant?share=1 "Qualified for 2023 Boston Marathon"
 [2022-the-canyons-50k]: https://canyons.utmb.world/runners/results?year=2022&raceUri=2983.thecanyonsendurancerunsbyutmb-50km.2022
 [2022-trter-50m]: https://ultrasignup.com/results_event.aspx?did=88887#1691864
+[2023-trter-56m]: https://ultrasignup.com/results_event.aspx?did=99158#1691864
