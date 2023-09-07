@@ -13,6 +13,7 @@ css: travel
 - Bay to Breakers 12K 49:02
 - The Broken Arrow Skyrace 46K [7:22:13][2023-the-broken-arrow-skyrace-46k]
 - Tahoe Rim Trail Endurance Runs 56M [13:23:07][2023-trter-56m]
+- UTMB CCC [18:49:37][2023-utmb-ccc]
 
 ## 2022
 
@@ -58,3 +59,4 @@ css: travel
 [2022-the-canyons-50k]: https://canyons.utmb.world/runners/results?year=2022&raceUri=2983.thecanyonsendurancerunsbyutmb-50km.2022
 [2022-trter-50m]: https://ultrasignup.com/results_event.aspx?did=88887#1691864
 [2023-trter-56m]: https://ultrasignup.com/results_event.aspx?did=99158#1691864
+[2023-utmb-ccc]: https://live.utmb.world/utmb/2023/runners/3639
