@@ -14,7 +14,7 @@ css: travel
 - The Broken Arrow Skyrace 46K [7:22:13][2023-the-broken-arrow-skyrace-46k]
 - Tahoe Rim Trail Endurance Runs 56M [13:23:07][2023-trter-56m]
 - UTMB CCC [18:49:37][2023-utmb-ccc]
-- California International Marathon [3:10:10][]
+- California International Marathon [3:10:10][2023-cim]
 
 ## 2022
 
