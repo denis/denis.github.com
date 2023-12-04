@@ -14,6 +14,7 @@ css: travel
 - The Broken Arrow Skyrace 46K [7:22:13][2023-the-broken-arrow-skyrace-46k]
 - Tahoe Rim Trail Endurance Runs 56M [13:23:07][2023-trter-56m]
 - UTMB CCC [18:49:37][2023-utmb-ccc]
+- California International Marathon [3:10:10][]
 
 ## 2022
 
@@ -60,3 +61,4 @@ css: travel
 [2022-trter-50m]: https://ultrasignup.com/results_event.aspx?did=88887#1691864
 [2023-trter-56m]: https://ultrasignup.com/results_event.aspx?did=99158#1691864
 [2023-utmb-ccc]: https://live.utmb.world/utmb/2023/runners/3639
+[2023-cim]: https://www.athlinks.com/event/3241/results/Event/1067161/Course/2421871/Bib/8459
