@@ -9,7 +9,7 @@ css: travel
 
 - London Marathon [3:09:56][2024-london-marathon]
 - The Canyons 100K [14:17:39][2024-the-canyons-100k]
-- 
+
 ## 2023
 
 - Tokyo Marathon 2:56:47
