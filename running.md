@@ -5,6 +5,11 @@ css: travel
 
 # {{ page.title }}
 
+## 2024
+
+- London Marathon [3:09:56][2024-london-marathon]
+- The Canyons 100K [14:17:39][2024-the-canyons-100k]
+- 
 ## 2023
 
 - Tokyo Marathon 2:56:47
@@ -62,3 +67,5 @@ css: travel
 [2023-trter-56m]: https://ultrasignup.com/results_event.aspx?did=99158#1691864
 [2023-utmb-ccc]: https://live.utmb.world/utmb/2023/runners/3639
 [2023-cim]: https://www.athlinks.com/event/3241/results/Event/1067161/Course/2421871/Bib/8459
+[2024-london-marathon]: https://results.tcslondonmarathon.com/2024/?content=detail&idp=9TG2O3HQ4372D3
+[2024-the-canyons-100k]: https://canyons.utmb.world/runners/results?year=2024&raceUri=3753.hokacanyonsendurancerunsbyutmb-100k.2024&page=3&offset=50&limit=50
