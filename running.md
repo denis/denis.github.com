@@ -11,6 +11,8 @@ css: travel
 - The Canyons 100K [14:17:39][2024-the-canyons-100k]
 - Bay to Breakers 12K 49:42
 - The Broken Arrow Skyrace 46K 7:49:08
+- Tahoe Rim Trail Endurance Runs 56M [14:04:14][2023-trter-56m]
+- Paris 2024 Marathon Pour Tous [3:46:13][2024-paris-marathon]
 
 ## 2023
 
@@ -67,7 +69,9 @@ css: travel
 [2022-the-canyons-50k]: https://canyons.utmb.world/runners/results?year=2022&raceUri=2983.thecanyonsendurancerunsbyutmb-50km.2022
 [2022-trter-50m]: https://ultrasignup.com/results_event.aspx?did=88887#1691864
 [2023-trter-56m]: https://ultrasignup.com/results_event.aspx?did=99158#1691864
+[2024-trter-56m]: https://ultrasignup.com/results_event.aspx?did=108842#1691864
 [2023-utmb-ccc]: https://live.utmb.world/utmb/2023/runners/3639
 [2023-cim]: https://www.athlinks.com/event/3241/results/Event/1067161/Course/2421871/Bib/8459
 [2024-london-marathon]: https://results.tcslondonmarathon.com/2024/?content=detail&idp=9TG2O3HQ4372D3
 [2024-the-canyons-100k]: https://canyons.utmb.world/runners/results?year=2024&raceUri=3753.hokacanyonsendurancerunsbyutmb-100k.2024&page=3&offset=50&limit=50
+[2024-paris-marathon]: https://paris-mpt.r.mikatiming.de/2024/?pid=search&search%5Bstart_no%5D=10324
