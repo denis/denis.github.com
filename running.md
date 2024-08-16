@@ -11,7 +11,7 @@ css: travel
 - The Canyons 100K [14:17:39][2024-the-canyons-100k]
 - Bay to Breakers 12K 49:42
 - The Broken Arrow Skyrace 46K 7:49:08
-- Tahoe Rim Trail Endurance Runs 56M [14:04:14][2023-trter-56m]
+- Tahoe Rim Trail Endurance Runs 56M [14:04:14][2024-trter-56m]
 - Paris 2024 Marathon Pour Tous [3:46:13][2024-paris-marathon]
 
 ## 2023
