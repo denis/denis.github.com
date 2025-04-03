@@ -5,6 +5,10 @@ css: travel
 
 # {{ page.title }}
 
+## 2025
+
+- The Big Alta 50K [5:00:03][2025-the-big-alta-50k]
+
 ## 2024
 
 - London Marathon [3:09:56][2024-london-marathon]
@@ -14,6 +18,7 @@ css: travel
 - Tahoe Rim Trail Endurance Runs 56M [14:04:14][2024-trter-56m]
 - Paris 2024 Marathon Pour Tous [3:46:13][2024-paris-marathon]
 - UTMB [38:51:42][2024-utmb]
+- California International Marathon 3:04:09
 
 ## 2023
 
@@ -77,3 +82,4 @@ css: travel
 [2024-the-canyons-100k]: https://canyons.utmb.world/runners/results?year=2024&raceUri=3753.hokacanyonsendurancerunsbyutmb-100k.2024&page=3&offset=50&limit=50
 [2024-paris-marathon]: https://paris-mpt.r.mikatiming.de/2024/?pid=search&search%5Bstart_no%5D=10324
 [2024-utmb]: https://live.utmb.world/utmb/2024/runners/795
+[2025-the-big-alta-50k]: https://ultrasignup.com/results_event.aspx?did=118344#1691864
