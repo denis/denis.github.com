@@ -11,6 +11,7 @@ css: travel
 - The Canyons 100K [17:13:03][2025-the-canyons-100k]
 - Bay To Breakers 12K [50:21][2025-bay-to-breakers]
 - Lavaredo 120K [22:31:54][2025-lavaredo-120k]
+- Tamalpa Headlands 50K [5:03:14][2025-tamalpa-headlands-50k]
 
 ## 2024
 
@@ -96,3 +97,4 @@ css: travel
 [2025-the-canyons-100k]: https://canyons.utmb.world/runners/results?year=2025&offset=300&limit=50&raceUri=3753.thecanyonsendurancerunsbyutmb-100k.2025&page=8
 [2025-bay-to-breakers]: http://results2.xacte.com/#/e/2590/searchable/12587
 [2025-lavaredo-120k]: https://utmb.world/utmb-index/races/178.lavaredoultratrailbyutmb-lavaredo120k.2025?page=23
+[2025-tamalpa-headlands-50k]: https://ultrasignup.com/results_event.aspx?did=119722#id1691864
