@@ -10,6 +10,7 @@ css: travel
 - The Big Alta 100K [12:54:15][2026-the-big-alta-100k]
 - The Canyons 100K [13:33:34][2026-the-canyons-100k]
 - Bay To Breakers 12K [51:04][2026-bay-to-breakers]
+- Tahoe Rim Trail Endurance Runs 100K [16:23:18][2026-trter-100k]
 - Tamalpa Headlands 50K [5:59:51][2026-tamalpa-headlands-50k]
 
 ## 2025
@@ -113,4 +114,5 @@ css: travel
 [2026-the-big-alta-100k]: https://ultrasignup.com/results_event.aspx?did=130945#id1691864
 [2026-the-canyons-100k]: https://canyons.utmb.world/runners/results?year=2026&raceUri=3753.thecanyonsendurancerunsbyutmb-r-100k.2026&page=3&offset=100&limit=50
 [2026-bay-to-breakers]: https://results.laurelt.com/bbk/results?pk=8819388
+[2026-trter-100k]: https://ultrasignup.com/results_event.aspx?did=131380#id1691864
 [2026-tamalpa-headlands-50k]: https://ultrasignup.com/results_event.aspx?did=135607#id1691864
